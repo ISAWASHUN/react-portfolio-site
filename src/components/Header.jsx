@@ -3,6 +3,7 @@ import React from 'react'
 const header = () => {
   return (
     <div>
+      <title>My Portfolio</title>
        {/* header-section */}
         <header className='text-gray-700 border-b border-gray-700'>
           <div className='container flex mx-auto p-5 flex-col md:flex-row items-center'>
